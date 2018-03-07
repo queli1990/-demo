@@ -1,0 +1,4 @@
+{
+  "navigationBarTitleText": "测试上拉和下拉",
+  "enablePullDownRefresh": true
+}
